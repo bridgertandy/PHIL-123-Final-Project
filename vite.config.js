@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     open: true,
   },
+  base: "/PHIL-123-Final-Project/",
 });
