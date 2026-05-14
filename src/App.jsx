@@ -27,7 +27,7 @@ function App() {
           search engine like Google.
         </div>
       </div>
-      <div id="bottomContainer" className="d-flex gap-5">
+      <div id="bottomContainer" className="d-flex">
         <PromptSelector />
         <Chatbot />
       </div>
